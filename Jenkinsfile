@@ -19,8 +19,6 @@ pipeline {
         }
     }
     
-	
-	sdfas
     post {
         failure {
             echo 'Pipeline failed'
